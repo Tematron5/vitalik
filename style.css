@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+}
+
+header a {
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+header {
+    border: 5px solid navy;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+main h1 {
+    background-color: rgb(178, 239, 242);
+    color: navy;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 100;
+}
+
+.img {
+    width: 100%;
+    border-radius: 10px;
+    border:2px solid aquamarine;
+}
+
+.red {
+    background-color: rgb(173, 79, 79);
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(250, 250, 250);
+}
+
+h2 {
+    color: blue;
+}
+
+footer p {
+    border: 2px solid lightgrey;
+    padding: 3px;
+}
+
+main a {
+    text-decoration: none;
+    border: 3px solid navy;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.BiTaliKa-zacTpelili {
+    padding-left: 30px;
+}
+
+nav a {
+    border:5px solid royalblue;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    color: black;
+}
+
+nav {
+    margin: 15px;
+}
